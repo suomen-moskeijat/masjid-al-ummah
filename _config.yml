@@ -1,0 +1,10 @@
+# Masjid al Ummah – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid al Ummah"
+description: "Masjid al Ummah, Hernepellonkuja 6, 00710 Helsinki. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-al-ummah     # tiedosto _moskeijat/masjid-al-ummah.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-al-ummah/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-al-ummah"
